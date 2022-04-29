@@ -1,6 +1,6 @@
 # Create Azure Resource Group using Terraform
 
-## Initailize 
+## Initialize 
 
 ```
 terraform init
